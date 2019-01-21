@@ -350,10 +350,7 @@ function subcategory()
    $cat_id= $this->input->post('cat_id');
 
 echo $cat_id;
-   // $this->load->model("product_model"); 
-   // $data['h']=$this->product_model->subcategory($sub);  
 
-   // $this->load->view('products', $data); 
 }
 
 
