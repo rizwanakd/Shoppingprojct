@@ -114,7 +114,7 @@
     margin-top: -200px;
 "></a>
 <h style="margin-left: -200px;
-    font-size: 25px;">All Categories</h>
+    font-size: 25px;">All Categories:</h>
   <form method="post" action="<?php echo base_url(); ?>user_cont/view_clothes_cat">
       <!-- Categories: <select name="category" onchange="this.form.submit()"> -->
      <!-- <option>All categories</option> -->
