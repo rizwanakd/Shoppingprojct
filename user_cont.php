@@ -400,7 +400,7 @@ function view_clothes_cat()
  }
  else
  {
-  echo "No products Found";
+  echo "Sorry.No products Found";
 }
 
 }
